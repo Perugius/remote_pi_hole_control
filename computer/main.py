@@ -1,3 +1,5 @@
+# control and show current status of the pi hole from a web app on your computer
+
 import requests
 import json
 import flet as ft
